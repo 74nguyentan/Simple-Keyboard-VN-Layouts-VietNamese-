@@ -1,5 +1,5 @@
 <a href="https://www.dropbox.com/s/q4d84cf3e0xmxzz/Screensho.png?dl=0" title="View Demo" target="_blank"><img src="https://www.dropbox.com/s/q4d84cf3e0xmxzz/Screensho.png"></a>
-[image demo](https://www.dropbox.com/s/q4d84cf3e0xmxzz/Screensho.png)
+[click view demo](https://www.dropbox.com/s/q4d84cf3e0xmxzz/Screensho.png)
 <blockquote>The keyboard layout kit for simple-keyboard.</blockquote>
 
 [![npm version](https://badgen.net/npm/v/simple-keyboard-layouts?color=blue)](https://www.npmjs.com/package/simple-keyboard-layouts)
