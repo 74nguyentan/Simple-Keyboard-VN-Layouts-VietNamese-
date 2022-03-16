@@ -13,7 +13,7 @@ download project and npm install and npm start
 
 this is the layout-vietnamese extension for the [simple-keyboard library](https://www.npmjs.com/package/simple-keyboard)
 
-Check out the [Getting Started](https://hodgef.com/simple-keyboard/modules/simple-keyboard-layouts/) docs to begin.
+Check out the [Getting Started](https://github.com/74nguyentan/Simple-Keyboard-VN-Layouts-VietNamese-/files/8258343/User.manual.pdf) docs to begin.
 
 To fully customize your virtual keyboard, check out the main [simple-keyboard repository](https://github.com/hodgef/simple-keyboard).
 
